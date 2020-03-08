@@ -1,0 +1,11 @@
+C:\Users\Q z L\Documents\Visual Studio 2019\Projects\CodeInGame\Defibrilateur\Defibrilateur\Defibrilateur\bin\Debug\netcoreapp2.1\Defibrilateur.deps.json
+C:\Users\Q z L\Documents\Visual Studio 2019\Projects\CodeInGame\Defibrilateur\Defibrilateur\Defibrilateur\bin\Debug\netcoreapp2.1\Defibrilateur.runtimeconfig.json
+C:\Users\Q z L\Documents\Visual Studio 2019\Projects\CodeInGame\Defibrilateur\Defibrilateur\Defibrilateur\bin\Debug\netcoreapp2.1\Defibrilateur.runtimeconfig.dev.json
+C:\Users\Q z L\Documents\Visual Studio 2019\Projects\CodeInGame\Defibrilateur\Defibrilateur\Defibrilateur\bin\Debug\netcoreapp2.1\Defibrilateur.dll
+C:\Users\Q z L\Documents\Visual Studio 2019\Projects\CodeInGame\Defibrilateur\Defibrilateur\Defibrilateur\bin\Debug\netcoreapp2.1\Defibrilateur.pdb
+C:\Users\Q z L\Documents\Visual Studio 2019\Projects\CodeInGame\Defibrilateur\Defibrilateur\Defibrilateur\obj\Debug\netcoreapp2.1\Defibrilateur.csprojAssemblyReference.cache
+C:\Users\Q z L\Documents\Visual Studio 2019\Projects\CodeInGame\Defibrilateur\Defibrilateur\Defibrilateur\obj\Debug\netcoreapp2.1\Defibrilateur.csproj.CoreCompileInputs.cache
+C:\Users\Q z L\Documents\Visual Studio 2019\Projects\CodeInGame\Defibrilateur\Defibrilateur\Defibrilateur\obj\Debug\netcoreapp2.1\Defibrilateur.AssemblyInfoInputs.cache
+C:\Users\Q z L\Documents\Visual Studio 2019\Projects\CodeInGame\Defibrilateur\Defibrilateur\Defibrilateur\obj\Debug\netcoreapp2.1\Defibrilateur.AssemblyInfo.cs
+C:\Users\Q z L\Documents\Visual Studio 2019\Projects\CodeInGame\Defibrilateur\Defibrilateur\Defibrilateur\obj\Debug\netcoreapp2.1\Defibrilateur.dll
+C:\Users\Q z L\Documents\Visual Studio 2019\Projects\CodeInGame\Defibrilateur\Defibrilateur\Defibrilateur\obj\Debug\netcoreapp2.1\Defibrilateur.pdb
